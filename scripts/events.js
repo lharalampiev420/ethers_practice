@@ -33,5 +33,6 @@ const main = async () => {
 
   getEventsValue(transferEvents);
 };
+console.log('test');
 
 main();
